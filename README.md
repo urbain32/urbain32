@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="left">
-  <!-- <a href = "https://www.linkedin.com/in//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
+  <a href = "https://www.linkedin.com/in/kamwenubusa-urbain/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href = "https://twitter.com/urbainq32"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
   <a href = "https://www.instagram.com/urban_zollner/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
