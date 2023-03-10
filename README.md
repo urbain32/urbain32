@@ -32,10 +32,14 @@ Here are some ideas to get you started:
 <a href="https://info.flagcounter.com/CHgw"><img src="https://s11.flagcounter.com/count2/CHgw/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="10"></a>
 </div>	  
 	  
-<!-- <p align="center">
+<p align="center">
 <img align="" height='120px' src="https://github.com/urbain32/urbain32/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/urbain32/urbain32/master/matrix.svg" /><img align="" height='120px' src="https://github.com/urbain32/urbain32/blob/main/assets/Geometric%20White.gif" />
-</p> -->
-<!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000"> -->
+</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
+
+<p align="center">
+<img align="" height='150px' src="https://github-readme-stats-urbain32.vercel.app/api?username=urbain2&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="urbain32" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=urbain32&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+</p>
 <!-- End Visitor Count -->
 
 [![Github](https://img.shields.io/github/followers/urbain32?label=Follow&style=social)](https://github.com/urbain32)
