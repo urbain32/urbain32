@@ -80,7 +80,8 @@ Here are some ideas to get you started:
 <br/>
 <!-- <a href="https://github.com/urbain32/github-readme-activity-graph"><img alt="Hakizimana Tony Carlin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=urbain32&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a> -->
 
-[![Urbain's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=urbain32&bg_color=09121a&color=fdfcfd&line=f2f2f2&point=00ff2a&area=true&hide_border=true)](https://github.com/urbain32/github-readme-activity-graph)
+
+[![](https://github-readme-activity-graph.vercel.app/graph?username=urbain32&bg_color=060A0CD0&color=E6EDF3&line=00E7FF&point=00E7FF&area=true&hide_border=true)](https://github.com/urbain32/github-readme-activity-graph)
 
 <br/>
 <br/>
